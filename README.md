@@ -69,8 +69,7 @@ Two earlier scenes — Miller's water world and Mann's ice world — remain in t
 | Free-Fly | `F` | `WASD`, `Space`/`Ctrl`, `Shift` boost, drag mouse to look |
 | Orbit-inspect | `O` | drag to rotate, scroll to zoom |
 | Pilot (chase) | `J` | Third-person camera behind your ship — Hub & Wormhole |
-| Cockpit | `K` | First-person view from inside the ship |
-| Third-person Explorer | `T` | Walk an astronaut on planet surfaces / EVA |
+
 
 ### Spacecraft piloting (Pilot or Cockpit mode)
 
