@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#05070d" />
+    <meta name="description" content="A cinematic real-time 3D simulation inspired by Interstellar - explore a black hole, a wormhole, the Endurance, and alien worlds in your browser." />
+    <title>Interstellar Simulation</title>
+    <link rel="icon" href="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><circle cx='32' cy='32' r='12' fill='black'/><circle cx='32' cy='32' r='22' fill='none' stroke='%23f5b46c' stroke-width='2' opacity='0.6'/></svg>" />
+    <style>
+      :root {
+        color-scheme: dark;
+      }
+      html, body, #root {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        width: 100%;
+        background: #05070d;
+        color: #e6ecf2;
+        font-family: "Inter", "SF Pro Text", "Helvetica Neue", system-ui, sans-serif;
+        overflow: hidden;
+        -webkit-font-smoothing: antialiased;
+      }
+      #root {
+        position: relative;
+      }
+      canvas {
+        display: block;
+        outline: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

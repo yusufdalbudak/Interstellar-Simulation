@@ -1,0 +1,15 @@
+node_modules
+dist
+dist-ssr
+*.local
+*.log
+*.tsbuildinfo
+.DS_Store
+.vite
+.cache
+.env
+.env.local
+.env.*.local
+.idea
+.vscode
+
