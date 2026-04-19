@@ -1,6 +1,8 @@
 # Interstellar Simulation
 <img width="1900" height="944" alt="image" src="https://github.com/user-attachments/assets/83c73b58-67db-4c4e-81b3-111d9c804cff" />
 
+# Access The Site:
+https://interstellar-simulation.vercel.app/
 
 > A cinematic, real-time, browser-based 3D simulation inspired by the universe and visual language of *Interstellar*.
 >
